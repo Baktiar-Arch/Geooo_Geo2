@@ -38,19 +38,24 @@ Contoh kode :
 ## HASILNYA (contoh tampilan);
 
 - tampilan awal
+  
 ![WhatsApp Image 2025-11-26 at 15 54 03](https://github.com/user-attachments/assets/e928bfe3-dad7-4978-9520-f1b50a98be2b)
 
 - menambahkan catatan
+  
   ![WhatsApp Image 2025-11-26 at 15 54 03 (1)](https://github.com/user-attachments/assets/fa44783a-85bb-4885-b2c1-a2ae87641060)
   
-- tampilan catatan yang telah dibuat  
+- tampilan catatan yang telah dibuat
+  
   ![WhatsApp Image 2025-11-26 at 15 54 03 (2)](https://github.com/user-attachments/assets/91941ea1-c16e-4492-bcf8-7940119dba03)
 
 - Hapus catatan
+  
   ![WhatsApp Image 2025-11-26 at 15 54 04](https://github.com/user-attachments/assets/226d8548-1fba-4d49-9276-0229a7b2d211)
 
   
 - setelah di hapus catatannya
+
   ![WhatsApp Image 2025-11-26 at 15 54 04 (1)](https://github.com/user-attachments/assets/4fd1460c-d135-4a4d-ac34-2995929b722e)
 
   
